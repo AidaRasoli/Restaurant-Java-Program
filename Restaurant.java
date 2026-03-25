@@ -77,7 +77,7 @@ public class Restaurant {
 //    private String hoursOpen;
 
     public String toString(){
-        return "Restaurant Name: " + name +
+        return  "\n\nRestaurant Name: " + name +
                 "\nWait Time:\t\t " + waitTime +
                 "\nRating:\t\t\t " + rating +
                 "\nAverage Price:\t " + avgPrice +
